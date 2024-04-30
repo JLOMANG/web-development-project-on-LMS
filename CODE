@@ -1,0 +1,76 @@
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kapenguria Dental Centre</title>
+  <style>
+    /* Add your CSS styles here */
+  </style>
+</head>
+<body>
+  <!-- Header section -->
+  <header>
+    <h1>Kapenguria Dental Centre</h1>
+    <h2>One Stop Centre for All Dental Solutions</h2>
+    <!-- Add your logo here -->
+    <img src="logo.png" alt="Kapenguria Dental Centre Logo">
+  </header>
+
+  <!-- Navigation menu -->
+  <nav>
+    <!-- Add navigation links here -->
+    <ul>
+      <li><a href="#services">Services</a></li>
+      <li><a href="#staff">Staff</a></li>
+      <li><a href="#location">Location</a></li>
+      <!-- Add more navigation links as needed -->
+    </ul>
+  </nav>
+
+  <!-- Main content section -->
+  <main>
+    <!-- Services section -->
+    <section id="services">
+      <h2>Services Offered</h2>
+      <ul>
+        <li>Implants</li>
+        <li>Extractions</li>
+        <li>Teeth Cleaning</li>
+        <!-- Add more services here -->
+      </ul>
+    </section>
+
+    <!-- Staff section -->
+    <section id="staff">
+      <h2>Our Staff</h2>
+      <ul>
+        <li>Dental Officers: [Names and Contacts]</li>
+        <li>Dental Assistants: [Names and Contacts]</li>
+        <!-- Add more staff members here -->
+      </ul>
+    </section>
+
+    <!-- Location section -->
+    <section id="location">
+      <h2>Location</h2>
+      <p>Address: Teachers Plaza, Opposite Main Stage, Ground Floor, Room 8, Kapenguria, West Pokot</p>
+      <p>Contact: Phone - 0739275898, Email - kapedent@gmail.com</p>
+      <!-- Add map or directions here -->
+    </section>
+
+    <!-- Add more sections for other content -->
+
+  </main>
+
+  <!-- Footer section -->
+  <footer>
+    <p>&copy; 2024 Kapenguria Dental Centre. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+```
+
+Replace placeholders like `[Names and Contacts]` with actual staff information, and replace `logo.png` with the filename of your logo image. You can also add more sections for services, staff, location, etc., as needed. This is a basic starting point; further customization and styling can be done using CSS.
