@@ -1,0 +1,81 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kapenguria Dental Centre</title>
+  <style>
+    /* CSS styles will be added here */
+  </style>
+</head>
+<body>
+  <!-- Header Section -->
+  <header>
+    <div class="logo">
+      <!-- Replace 'logo.png' with your actual logo -->
+      <img src="logo.png" alt="Kapenguria Dental Centre Logo">
+    </div>
+    <div class="clinic-info">
+      <h1>Kapenguria Dental Centre</h1>
+      <h2>One Stop Centre for All Dental Solutions</h2>
+      <p>Location: Teachers Plaza, Opposite Main Stage, Ground Floor, Room 8, Kapenguria, West Pokot</p>
+      <p>Contact: Phone - 0739275898, Email - kapedent@gmail.com</p>
+      <p>Working Hours: Monday - Friday: 8AM - 5PM, Weekends & Holidays: 8AM - 12PM</p>
+    </div>
+  </header>
+
+  <!-- Navigation Section -->
+  <nav>
+    <ul>
+      <li><a href="#services">Services</a></li>
+      <li><a href="#staff">Staff</a></li>
+      <li><a href="#location">Location</a></li>
+      <!-- Add more navigation links as needed -->
+    </ul>
+  </nav>
+
+  <!-- Main Content Section -->
+  <main>
+    <!-- Services Section -->
+    <section id="services">
+      <h2>Services Offered</h2>
+      <ul>
+        <li>General Dental Services</li>
+        <li>Implants</li>
+        <li>Extractions</li>
+        <!-- Add more services here -->
+      </ul>
+    </section>
+
+    <!-- Staff Section -->
+    <section id="staff">
+      <h2>Our Staff</h2>
+      <ul>
+        <li>Dental Officers: [Names and Contacts]</li>
+        <li>Dental Assistants: [Names and Contacts]</li>
+        <!-- Add more staff members here -->
+      </ul>
+    </section>
+
+    <!-- Location Section -->
+    <section id="location">
+      <h2>Location</h2>
+      <p>Address: Teachers Plaza, Opposite Main Stage, Ground Floor, Room 8, Kapenguria, West Pokot</p>
+      <p>Contact: Phone - 0739275898, Email - kapedent@gmail.com</p>
+      <!-- Add map or directions here -->
+    </section>
+
+    <!-- Add more sections for other content -->
+
+  </main>
+
+  <!-- Footer Section -->
+  <footer>
+    <p>&copy; 2024 Kapenguria Dental Centre. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+```
+
+This HTML code provides the basic structure for your dental clinic website. You can replace placeholders with actual content, such as staff names, contacts, services offered, and so on. Later, we can enhance the appearance and functionality using CSS and JavaScript. Let me know if you need further assistance!
